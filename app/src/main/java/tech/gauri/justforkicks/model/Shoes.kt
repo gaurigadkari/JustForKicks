@@ -5,7 +5,8 @@ data class Shoe(
     val title: String,
     val category: Category,
     val brand: String,
-    val price: Float
+    val price: Float,
+    val imageUrl: String
 )
 
 enum class Category(val label: String) {

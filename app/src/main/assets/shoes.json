@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Air Max 90",
+    "category": "MEN",
+    "brand": "Nike",
+    "price": 129.99
+  },
+  {
+    "id": 2,
+    "title": "Ultraboost Light",
+    "category": "MEN",
+    "brand": "Adidas",
+    "price": 190.00
+  },
+  {
+    "id": 3,
+    "title": "Classic Leather",
+    "category": "WOMEN",
+    "brand": "Reebok",
+    "price": 74.95
+  },
+  {
+    "id": 4,
+    "title": "Gel-Kayano 30",
+    "category": "WOMEN",
+    "brand": "ASICS",
+    "price": 159.95
+  },
+  {
+    "id": 5,
+    "title": "FuelCell Rebel v3",
+    "category": "SPORTS",
+    "brand": "New Balance",
+    "price": 129.99
+  },
+  {
+    "id": 6,
+    "title": "Zoom Mercurial Superfly 9",
+    "category": "SPORTS",
+    "brand": "Nike",
+    "price": 289.95
+  },
+  {
+    "id": 7,
+    "title": "Kids’ Court Borough Low",
+    "category": "BOYS",
+    "brand": "Nike",
+    "price": 54.99
+  },
+  {
+    "id": 8,
+    "title": "Kids’ Grand Court 2.0",
+    "category": "GIRLS",
+    "brand": "Adidas",
+    "price": 49.99
+  },
+  {
+    "id": 9,
+    "title": "Chuck Taylor All Star",
+    "category": "CASUAL",
+    "brand": "Converse",
+    "price": 65.00
+  },
+  {
+    "id": 10,
+    "title": "Old Skool",
+    "category": "CASUAL",
+    "brand": "Vans",
+    "price": 69.95
+  },
+  {
+    "id": 11,
+    "title": "Kids’ Revolution 6",
+    "category": "KIDS",
+    "brand": "Nike",
+    "price": 49.99
+  },
+  {
+    "id": 12,
+    "title": "Kids’ Swift Run 23",
+    "category": "KIDS",
+    "brand": "Adidas",
+    "price": 54.95
+  }
+]
